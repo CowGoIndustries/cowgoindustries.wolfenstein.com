@@ -1,2 +1,2 @@
-# cowgoindustries.wolfenstein.io
+# cowgoindustries.wolfenstein.com
 Wolfenstein
